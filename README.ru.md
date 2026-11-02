@@ -59,6 +59,19 @@
 
 </details>
 
+## 🏠 Рекомендуемые лаунчеры
+
+Чистые главные экраны без рекламы, которые хорошо работают с Control TV via linux. Установите APK через пункт `1`, затем сделайте лаунчер главным через пункт `6`.
+
+| Лаунчер | Стиль | GitHub |
+|---|---|---|
+| [**Aerial**](https://github.com/pengchujin/aerial-tv) | в стиле tvOS / Apple TV, пункт управления, веб-панель | [github.com/pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) |
+| [**AT4K Launcher**](https://github.com/avadhesh18/at4k) | в стиле Apple TV 4K, виджеты, без рекламы | [github.com/avadhesh18/at4k](https://github.com/avadhesh18/at4k) |
+| [**Projectivy Launcher**](https://github.com/spocky/miproja1) | гибкая настройка, без рекламы и рекомендаций | [github.com/spocky/miproja1](https://github.com/spocky/miproja1) |
+| [**FLauncher**](https://github.com/osrosal/flauncher) | минималистичный, быстрый, открытый код | [github.com/osrosal/flauncher](https://github.com/osrosal/flauncher) |
+| [**Arc Launcher**](https://github.com/meddouribadis/arclauncher) | форк FLauncher в стиле Apple TV, виджет трафика Wi-Fi | [github.com/meddouribadis/arclauncher](https://github.com/meddouribadis/arclauncher) |
+| [**LTvLauncher**](https://github.com/LeanBitLab/FlauncherL) | форк FLauncher с улучшенным интерфейсом | [github.com/LeanBitLab/FlauncherL](https://github.com/LeanBitLab/FlauncherL) |
+
 ## 📋 Требования
 
 - Linux (Ubuntu, Xubuntu, Debian, Mint, Fedora, Arch…) с **bash 4.3+**
