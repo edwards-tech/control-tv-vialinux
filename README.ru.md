@@ -1,6 +1,8 @@
 <div align="center">
 
-# 📺 Control TV via linux
+<img src="assets/logo.png" alt="Control TV via linux logo" width="220">
+
+# Control TV via linux
 
 **Управляйте любым Android TV из терминала Linux: поиск ТВ в сети, установка APK с прогресс-баром, запуск приложений, смена лаунчера и очистка от сервисов Google. Без рута.**
 

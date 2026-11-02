@@ -1,6 +1,8 @@
 <div align="center">
 
-# 📺 Control TV via linux
+<img src="assets/logo.png" alt="Control TV via linux logo" width="220">
+
+# Control TV via linux
 
 **Manage any Android TV from your Linux terminal — find TVs on your network, install APKs with progress bars, open apps, switch launchers and clean out Google services. No root needed.**
 
